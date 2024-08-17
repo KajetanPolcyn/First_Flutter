@@ -41,7 +41,7 @@ class HomePage extends StatelessWidget {
                     width: screenWidth * 0.5,
                     padding: const EdgeInsets.all(kDouble10),
                     child: const Center(
-                      child: Text("Cancer"),
+                      child: Text("League"),
                     ),
                   ),
                 ),
